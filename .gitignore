@@ -1,0 +1,6 @@
+.vscode/
+env/
+.env
+*.code-workspace
+*.bat
+__pycache__/
